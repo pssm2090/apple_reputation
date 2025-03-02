@@ -1,1 +1,5 @@
-"pandas" 
+fastapi
+uvicorn
+pymongo
+numpy
+pandas
